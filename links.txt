@@ -1,0 +1,4 @@
+Survey work link - https://docs.google.com/spreadsheets/d/1O_LZdT9KbAcW6nDq9erWTGS1Mt6TjA7mhVNzHdxwJwQ/edit?usp=sharing
+Perplexity findings - https://www.perplexity.ai/search/let-me-explain-to-you-my-colle-Awo9PEnNRxySmoN0S5G8TA?0=d
+Gemini findings - https://gemini.google.com/u/1/app/e99fce0eccc21a6c?hl=en-IN
+Grad-Cam github repo - https://github.com/ismailuddin/gradcam-tensorflow-2
