@@ -1,0 +1,16 @@
+Things to do regularly:
+1. Learn the FFT explanation tutorial and then implement the FFT algorithm in python using the youtube videos.
+2. Revise the Andrew Ng advanced machine learning notes and github repo. Then implement the CNN from scratch using the youtube videos.
+3. Learn the XAI palylist including the LIME and SHAP. Then implement the LIME and SHAP algorithms in python using the youtube videos.
+4. Learn the GRAD_CAM for XAI in CV and implement it in python using the youtube videos.
+5. Then start the project implementation using the learned algorithms.
+
+Things to do for mid-review:
+1. Prepare a presentation with following headings:
+   - Introduction
+   - Related work(survey work done so far)
+   - Limitations of existing work
+   - Problem statement(Objectives)
+   - Methodoly obtained by you
+   - Results obtained
+2. Learn as much as possible about the project topic and the algorithms you are implementing.

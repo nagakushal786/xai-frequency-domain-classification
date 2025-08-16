@@ -1,4 +1,6 @@
-Survey work link - https://docs.google.com/spreadsheets/d/1O_LZdT9KbAcW6nDq9erWTGS1Mt6TjA7mhVNzHdxwJwQ/edit?usp=sharing
-Perplexity findings - https://www.perplexity.ai/search/let-me-explain-to-you-my-colle-Awo9PEnNRxySmoN0S5G8TA?0=d
-Gemini findings - https://gemini.google.com/u/1/app/e99fce0eccc21a6c?hl=en-IN
-Grad-Cam github repo - https://github.com/ismailuddin/gradcam-tensorflow-2
+1. Survey work link - https://docs.google.com/spreadsheets/d/1O_LZdT9KbAcW6nDq9erWTGS1Mt6TjA7mhVNzHdxwJwQ/edit?usp=sharing
+2. Perplexity findings - https://www.perplexity.ai/search/let-me-explain-to-you-my-colle-Awo9PEnNRxySmoN0S5G8TA?0=d
+3. Gemini findings - https://gemini.google.com/u/1/app/e99fce0eccc21a6c?hl=en-IN
+4. Grad-Cam github repo - https://github.com/ismailuddin/gradcam-tensorflow-2
+5. Project feasibility - https://www.perplexity.ai/search/based-on-the-analysis-of-the-a-gzRFVwfSRomLSaTG6GCdpg
+6. Project based coding templates - https://www.perplexity.ai/search/now-imagine-yourself-as-an-exp-akOEDI0cSkKcgl9Wa5Fagg
