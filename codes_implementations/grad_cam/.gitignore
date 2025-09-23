@@ -1,3 +1,5 @@
 modelling/__pycache__
 model.pth
 pot-plant-classifier.pth
+__pycache__
+imagenet_classes.txt
