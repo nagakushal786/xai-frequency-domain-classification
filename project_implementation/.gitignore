@@ -1,2 +1,6 @@
 data
 cifar10_mag.npz
+fruits_fdcnn_mag_1phase.pth
+fruits_fdcnn_fixed_scorecam.pth
+fruits_magnitude_only_resnet50.pth
+resnet50_spatial_fruits.pth
