@@ -1,0 +1,42 @@
+====================================================================================================
+OVERALL EVALUATION METRICS REPORT
+Enhanced Dual Domain CNN with Feature Fusion - Fruits-360 Dataset
+Model Architecture: EfficientNet-B0 + Dual-Domain Feature Fusion (Spatial + FFT)
+Input: 9 channels (3 Magnitude + 3 Phase Cosine + 3 Phase Sine)
+====================================================================================================
+
+OVERALL PERFORMANCE METRICS:
+----------------------------------------------------------------------------------------------------
+Overall Accuracy:           0.837807 (83.7807%)
+Overall Cohen's Kappa:      0.837085
+Overall Precision:          0.873526
+Overall Recall:             0.838210
+Overall F1-Score:           0.837247
+Overall Sensitivity:        0.838210
+Overall Specificity:        0.999348
+Overall Error Rate:         0.161790
+----------------------------------------------------------------------------------------------------
+
+DATASET INFORMATION:
+----------------------------------------------------------------------------------------------------
+Total Test Samples:         43442
+Number of Classes:          250
+Correctly Classified:       36396
+Misclassified:              7046
+----------------------------------------------------------------------------------------------------
+
+METRIC DEFINITIONS:
+----------------------------------------------------------------------------------------------------
+Accuracy:      Ratio of correctly predicted samples to total samples
+Cohen's Kappa: Statistical measure of inter-rater agreement (accounts for chance)
+Precision:     Ratio of true positives to all predicted positives (macro-averaged)
+Recall:        Ratio of true positives to all actual positives (macro-averaged)
+F1-Score:      Harmonic mean of precision and recall (macro-averaged)
+Sensitivity:   True positive rate (same as recall, macro-averaged)
+Specificity:   True negative rate (macro-averaged)
+Error Rate:    Ratio of misclassified samples (macro-averaged)
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+END OF OVERALL METRICS REPORT
+====================================================================================================

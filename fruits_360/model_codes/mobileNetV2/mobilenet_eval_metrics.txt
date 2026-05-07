@@ -1,0 +1,42 @@
+====================================================================================================
+OVERALL EVALUATION METRICS REPORT
+Enhanced Dual Domain CNN with Feature Fusion - Fruits-360 Dataset
+Model Architecture: MobileNetV2 + Dual-Domain Feature Fusion (Spatial + FFT)
+Input: 9 channels (3 Magnitude + 3 Phase Cosine + 3 Phase Sine)
+====================================================================================================
+
+OVERALL PERFORMANCE METRICS:
+----------------------------------------------------------------------------------------------------
+Overall Accuracy:           0.859445 (85.9445%)
+Overall Cohen's Kappa:      0.858821
+Overall Precision:          0.887543
+Overall Recall:             0.858934
+Overall F1-Score:           0.857370
+Overall Sensitivity:        0.858934
+Overall Specificity:        0.999435
+Overall Error Rate:         0.001124
+----------------------------------------------------------------------------------------------------
+
+DATASET INFORMATION:
+----------------------------------------------------------------------------------------------------
+Total Test Samples:         43442
+Number of Classes:          250
+Correctly Classified:       37336
+Misclassified:              6106
+----------------------------------------------------------------------------------------------------
+
+METRIC DEFINITIONS:
+----------------------------------------------------------------------------------------------------
+Accuracy:      Ratio of correctly predicted samples to total samples
+Cohen's Kappa: Statistical measure of inter-rater agreement (accounts for chance)
+Precision:     Ratio of true positives to all predicted positives (macro-averaged)
+Recall:        Ratio of true positives to all actual positives (macro-averaged)
+F1-Score:      Harmonic mean of precision and recall (macro-averaged)
+Sensitivity:   True positive rate (same as recall, macro-averaged)
+Specificity:   True negative rate (macro-averaged)
+Error Rate:    Ratio of misclassified samples (macro-averaged)
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+END OF OVERALL METRICS REPORT
+====================================================================================================
